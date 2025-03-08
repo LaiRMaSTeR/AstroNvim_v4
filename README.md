@@ -32,3 +32,9 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+
+## Some other stuff
+
+`astrolsp.lua` has some configuration of pep-8 errors to ignore, if I'd liek to add some.
+
+snap version sucks (priettier does have some problems), installed from tarball.
